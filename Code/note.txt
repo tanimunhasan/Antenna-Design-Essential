@@ -1,0 +1,28 @@
+L1 3.94 mm
+L2 2.70 mm
+L3 5.00 mm
+L4 2.64 mm
+L5 2.00 mm
+L6 4.90 mm
+W1 0.90 mm
+W2 0.50 mm
+D1 0.50 mm
+D2 0.30 mm
+D3 0.30 mm
+D4 0.50 mm
+D5 1.40mm
+D6 1.70 mm
+
+
+Rectangle 1 = [W1/2+D1,L6/2-D4]
+Rectangle 2 = [L3/2+D1,L6-W2/2]
+Rectangle 3 = [W1+D5+W2/2+D1,L6/2-D4]
+Rectangle 4 = [D1+W1+D5+W2+D6+W2/2,L6-L4/2-W2]
+Rectangle 5 = [D1+L3+L5/2,L6-W2/2-L4]
+Rectangle 6 = [W2/2+D1+L3+L5,L6-L4/2-W2]
+Rectangle 7 = [L2/2+D1+L3+L5,L6-W2/2]
+Rectangle 8 = [D1+L3+L5+L2-W2/2,L6-L4/2-W2]
+Rectangle 9 = [D1+L3+L5+L2+L5/2,L6-W2/2-L4]
+Rectangle 10 = [D1+L3+L5+L2+L5+W2/2,L6-L4/2-W2]
+Rectangle 11 = [L2/2+D1+L3+L5+L2+L5,L6-W2/2]
+Rectangle 12 = [L2+D1+L3+L5+L2+L5-W2/2,L6-L1/2-W2]
